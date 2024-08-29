@@ -1,1 +1,1 @@
-# joinstr-magazine.github.io
+WIP
